@@ -90,6 +90,8 @@
 
     2.进入到路径C:\Users\【用户名】\AppData\Roaming\Tencent\WeChat\radium\web\profiles\multitab\Cache\Cache_Data
     然后删除里面的所有东西
+    部分高版本的微信可能路径不一样，例如3.9.7.29，路径如下
+    C:\Users\【用户名】\AppData\Roaming\Tencent\WeChat\radium\web\profiles\multitab_【32位英文数字】\Cache\Cache_Data
 
     3.接着先打开video_server工具
 

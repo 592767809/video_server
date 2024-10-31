@@ -90,8 +90,11 @@
 
     2.进入到路径C:\Users\【用户名】\AppData\Roaming\Tencent\WeChat\radium\web\profiles\multitab\Cache\Cache_Data
     然后删除里面的所有东西
-    部分高版本的微信可能路径不一样，例如3.9.7.29，路径如下
+    部分高版本的微信可能路径不一样，例如
+    3.9.7.29路径如下
     C:\Users\【用户名】\AppData\Roaming\Tencent\WeChat\radium\web\profiles\multitab_【32位英文数字】\Cache\Cache_Data
+    3.9.12.17路径如下
+    C:\Users\【用户名】\AppData\Roaming\Tencent\WeChat\radium\web\profiles\multitab_【32位英文数字】\Code Cache\js
 
     3.接着先打开video_server工具
 
@@ -198,3 +201,5 @@ xxxxy.xxxxxx4.com`
 ### 2024.10.7（v1.0.10）
     1.增加视频号批量按钮，点击可开关视频号批量功能
 
+### 2024.10.31（v1.0.11）
+    1.增加微信视频号hook强度
